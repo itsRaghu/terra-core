@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[679],{2478:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var d=n(a(0)),u=n(a(143)),i=n(a(954));function n(e){return e&&e.__esModule?e:{default:e}}t.default=function(){return d.default.createElement(u.default,{id:"is-deceased-image-avatar",alt:"user",image:i.default,isDeceased:!0,initials:"JS"})}},954:function(e,t,a){e.exports=a.p+"87ec563ff16c288f58b0747d553762d6.jpg"}}]);
+//# sourceMappingURL=679-b4517aae07d0eb092a00.js.map

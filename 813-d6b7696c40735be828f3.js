@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[813],{2825:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var a=r(n(0)),u=r(n(952));function r(e){return e&&e.__esModule?e:{default:e}}t.default=function(){return a.default.createElement(u.default,{title:"Transparent Section Header",isTransparent:!0})}}}]);
+//# sourceMappingURL=813-d6b7696c40735be828f3.js.map

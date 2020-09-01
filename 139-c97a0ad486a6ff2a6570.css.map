@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///packages/terra-form-select/lib/terra-dev-site/doc/example/FormSelectDocCommon.module.scss"],"names":[],"mappings":"AAAA,iDAEI,eAAgB","file":"139-c97a0ad486a6ff2a6570.css","sourcesContent":[":local {\n  .form-select {\n    max-width: 300px;\n  }\n}\n"]}

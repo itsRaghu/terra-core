@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[676],{2472:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var n=i(a(0)),u=i(a(143)),d=i(a(954));function i(e){return e&&e.__esModule?e:{default:e}}t.default=function(){return n.default.createElement(u.default,{image:d.default,alt:"User",id:"image-avatar",initials:"JS"})}},954:function(e,t,a){e.exports=a.p+"87ec563ff16c288f58b0747d553762d6.jpg"}}]);
+//# sourceMappingURL=676-b90467f822c1278a32a1.js.map
